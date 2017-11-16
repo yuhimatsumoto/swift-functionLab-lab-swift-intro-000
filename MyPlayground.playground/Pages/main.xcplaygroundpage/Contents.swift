@@ -13,6 +13,11 @@
  */
 // write your code here
 
+func helloWorld () {
+    let greeting = "Hello, world!"
+    print (greeting)
+}
+helloWorld ()
 
 
 
@@ -21,6 +26,11 @@
  */
 // write your code here
 
+func goodnightWorld () {
+    let message= "Sweet dreams!"
+    print (message)
+}
+goodnightWorld ()
 
 
 
@@ -29,6 +39,17 @@
  */
 // write your code here
 
+func sayHelloToKK () {
+    print ("Hello KK, you are my role model.")
+}
+
+func sayHelloToJen () {
+    print ("Hello Jen, you are my role model")
+}
+
+func sayHelloToGloria () {
+    print ("Hello Gloria, you are my role model.")
+}
 
 
 
@@ -37,6 +58,9 @@
  */
 // write your code here
 
+func sayHello(name: String) {
+    print ("Hello \(name), you are my role model.")
+}
 
 
 
@@ -45,6 +69,18 @@
  */
 // write your code here
 
+func myFavMusic() {
+    var music = "Chandelier"
+    print (music)
+    music = "Castle on the Hill"
+    print (music)
+}
+
+myFavMusic()
+
+myFavMusic()
+
+myFavMusic()
 
 
 
